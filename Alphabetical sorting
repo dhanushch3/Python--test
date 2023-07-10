@@ -1,0 +1,7 @@
+A=[] 
+s=int (input("Enter the size of list) 
+for i in range(0,s-1)
+i=str(input("Enter the string")) 
+A. append(i) 
+y=A.sorted()
+print(y)
